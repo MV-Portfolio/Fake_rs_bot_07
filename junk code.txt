@@ -1,0 +1,59 @@
+/*
+		while (cin.fail()){
+			cin.clear();
+			cin.ignore(999, '\n');
+			cout << ">>> World IDs only consist of numbers \n>>> Please try again" << endl;
+			cout << "WORLD ID: ";
+			cin >> worldnum;
+		}
+
+*/
+
+
+
+				//while (cin.fail()){
+					//cin.clear();
+					//cin.ignore(999, '\n');
+					//cout << ">>> World IDs only consist of numbers \n>>> Please try again" << endl;
+					//cout << "Enter world id: ";
+					//cin >> noskipws >> worldid;
+				//}
+
+
+
+
+
+
+
+
+/*
+int bot::get_lvl(string skill_name){
+	if (skill_name=="mining"){
+		return X -> get_level();
+	} else if (skill_name=="woodcutting"){
+		return Y -> get_level();
+	} else if (skill_name=="fishing"){
+		return Z -> get_level();
+	} else {cout << ">>> ERROR! No skill found" << endl;};
+}
+
+int bot::get_xp(string skill_name){
+	if (skill_name=="mining"){
+		return X -> get_xp();
+	} else if (skill_name=="woodcutting"){
+		return Y -> get_xp();
+	} else if (skill_name=="fishing"){
+		return Z -> get_xp();
+	} else {cout << ">>> ERROR! No skill found" << endl;};
+}
+
+int bot::get_xp_till_lvl(string skill_name){
+	if (skill_name=="mining"){
+		return X -> get_xp_till_level();
+	} else if (skill_name=="woodcutting"){
+		return Y -> get_xp_till_level();
+	} else if (skill_name=="fishing"){
+		return Z -> get_xp_till_level();
+	} else {cout << ">>> ERROR! No skill found" << endl;};
+}
+*/

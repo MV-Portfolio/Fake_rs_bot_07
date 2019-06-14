@@ -1,0 +1,52 @@
+// will need another file to make all tasks 
+
+
+//this covers inheritance
+
+task {
+	tool being used
+	required tool
+	required level
+	task level (willow,oak, ect.)
+	task names 
+	//members required
+}
+
+walk_around:task{
+//return int 
+	gpsec = 1;
+	xp = 0;
+}
+
+mining:task {
+//earn gpsec goes up faster, xp goes up slower 
+	gpsec = ((tool stage*x)+task)*level
+	xp  = ((level*x)+tool stage)*task
+}
+
+tree_chopping:task{
+//earn gpsec goes up slower, xp goes up faster
+	gpsec = ((level*x)+tool stage)*task
+	xp  = ((tool stage*x)+task)*level
+}
+
+fishing::task {
+//highest starting task , becomes lowest compared to others at lvl 10
+	gpsec = level*task+x
+	xp  = level*task+x
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

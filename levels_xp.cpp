@@ -1,0 +1,19 @@
+/*
+
+
+
+current level
+current xp
+xp per level
+
+
+
+
+
+
+
+
+
+
+
+*/

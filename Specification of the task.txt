@@ -1,0 +1,14 @@
+**** completed 
+
+1. Memory allocation from the stack and the heap
+        Arrays **** eg. (main.cpp:line 37)
+        Strings **** eg. (function.cpp:line 82)
+        Objects **** eg. (world,bot,skills,items, tasks)
+2. User Input and Output **** (everywhere...)
+3. Object-oriented programming and design
+        Inheritance **** eg. (items.h)
+        Polymorphism **** eg. (botcommands for items)
+        Abstract Classes **** eg. (items.h)
+4. Testing
+        Test Inputs / Expected Outputs  ****
+        Regression Testing ****
